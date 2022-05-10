@@ -4,4 +4,4 @@
 
 * Scripts de inserts: https://github.com/biancamdros/BDII-Tarefa/blob/main/tarefas/t01/tarefa01-inserts.sql
 
-* scripts das consultas resolvidas: 
+* scripts das consultas resolvidas: https://github.com/biancamdros/BDII-Tarefa/tree/main/tarefas/t01
