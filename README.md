@@ -6,3 +6,4 @@
 * bianca.medeiros.098@ufrn.edu.br
 * https://github.com/biancamdros/BDII-Tarefa/blob/main/tarefas/t01/tarefa01.md#links
 * https://github.com/biancamdros/BDII-Tarefa/tree/main/tarefas/t02
+* https://github.com/biancamdros/BDII-Tarefa/tree/main/tarefas/t03
